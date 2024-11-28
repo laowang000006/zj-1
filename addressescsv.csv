@@ -1,0 +1,13 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+johnny.ns.cloudflare.com,443,443,true,FRA,Europe,Frankfurt,195,11.6
+margot.ns.cloudflare.com,443,443,true,NRT,Asia Pacific,Tokyo,73,11.59
+cameron.ns.cloudflare.com,443,443,true,NRT,Asia Pacific,Tokyo,69,11.59
+eleanor.ns.cloudflare.com,443,443,true,NRT,Asia Pacific,Tokyo,86,11.58
+cf.090227.xyz,443,443,true,NRT,Asia Pacific,Tokyo,71,11.58
+ct.090227.xyz,443,443,true,NRT,Asia Pacific,Tokyo,74,11.57
+usa.visa.com,443,443,true,NRT,Asia Pacific,Tokyo,86,11.57
+myanmar.visa.com,443,443,true,NRT,Asia Pacific,Tokyo,84,11.57
+www.visa.com.tw,443,443,true,NRT,Asia Pacific,Tokyo,84,11.56
+www.visaeurope.ch,443,443,true,NRT,Asia Pacific,Tokyo,92,11.56
+www.visa.com.br,443,443,true,NRT,Asia Pacific,Tokyo,74,11.56
+www.visasoutheasteurope.com,443,443,true,NRT,Asia Pacific,Tokyo,90,11.54
